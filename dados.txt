@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome: Jefferson
--Profissão: Engenheiro Mecânico
--Cidade: São Luís
--O que faz nas horas vaga: Estudo
--Feedback sobre o curso Qualidade de Software: Excelente Curso
--Feedback sobre a plataforma de estudo da EBAC: Simplificada e objetiva o que a torna bem acessivel para qualquer pessoa.
+-Primeiro Nome: Jefferson 
+-Profissão: Engenheiro Mecânico 
+-Cidade: São Luís 
+-O que faz nas horas vaga: Estudo 
+-Feedback sobre o curso Qualidade de Software: Excelente Curso 
+-Feedback sobre a plataforma de estudo da EBAC: Simplificada e objetiva o que a torna bem acessivel para qualquer pessoa. 
 
-Obrigado!!!
+Obrigado!!! 
 
 
